@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\message\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|d:\\projects\\message\\message\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|solutionrelative:message\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FC9161-DD54-4320-A683-E4061E830B8D}|Server\\Server.csproj|D:\\Projects\\message\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FC9161-DD54-4320-A683-E4061E830B8D}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|D:\\Projects\\message\\message\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|solutionrelative:message\\dialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|D:\\Projects\\message\\message\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|solutionrelative:message\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|D:\\Projects\\message\\message\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681DE795-366E-49FE-9ACB-EEA674E6E8FE}|message\\message.csproj|solutionrelative:message\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\message\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\Projects\\message\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:42:22.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dialog.cs",
+              "DocumentMoniker": "D:\\Projects\\message\\message\\Dialog.cs",
+              "RelativeDocumentMoniker": "message\\Dialog.cs",
+              "ToolTip": "D:\\Projects\\message\\message\\Dialog.cs",
+              "RelativeToolTip": "message\\Dialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:05:57.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\message\\message\\Form1.cs",
+              "RelativeDocumentMoniker": "message\\Form1.cs",
+              "ToolTip": "D:\\Projects\\message\\message\\Form1.cs",
+              "RelativeToolTip": "message\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T23:35:03.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dialog.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\message\\message\\Dialog.cs",
+              "RelativeDocumentMoniker": "message\\Dialog.cs",
+              "ToolTip": "D:\\Projects\\message\\message\\Dialog.cs [Design]",
+              "RelativeToolTip": "message\\Dialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:05:53.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\message\\message\\Form1.cs",
+              "RelativeDocumentMoniker": "message\\Form1.cs",
+              "ToolTip": "D:\\Projects\\message\\message\\Form1.cs [Design]",
+              "RelativeToolTip": "message\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T23:34:59.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

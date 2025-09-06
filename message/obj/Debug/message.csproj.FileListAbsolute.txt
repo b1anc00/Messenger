@@ -1,0 +1,11 @@
+D:\Projects\message\message\bin\Debug\message.exe.config
+D:\Projects\message\message\bin\Debug\message.exe
+D:\Projects\message\message\bin\Debug\message.pdb
+D:\Projects\message\message\obj\Debug\message.csproj.AssemblyReference.cache
+D:\Projects\message\message\obj\Debug\message.Dialog.resources
+D:\Projects\message\message\obj\Debug\message.Form1.resources
+D:\Projects\message\message\obj\Debug\message.Properties.Resources.resources
+D:\Projects\message\message\obj\Debug\message.csproj.GenerateResource.cache
+D:\Projects\message\message\obj\Debug\message.csproj.CoreCompileInputs.cache
+D:\Projects\message\message\obj\Debug\message.exe
+D:\Projects\message\message\obj\Debug\message.pdb
